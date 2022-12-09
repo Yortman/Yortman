@@ -1,5 +1,7 @@
-### Hi there 👋
+<h1>Hello, I'm Troy</h1>
 
+<h3>I'm a junior web developer currently learning HTML, CSS, JavaScript and React more in depth.
+Also, working hard to get projects completed and to build my portfolio.</h3><h3>Be on the lookout...!</h3>
 <!--
 **Yortman/Yortman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
